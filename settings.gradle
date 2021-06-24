@@ -1,0 +1,2 @@
+rootProject.name = "DEPRETECH"
+include ':app'

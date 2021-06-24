@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">DEPRETECH</string>
+    <string name="symptom">
+  <br>1) Feeling sad or having a depressed mood</br>
+<br>2) Loss of interest or pleasure in activities once enjoyed</br>
+    <br>3) Trouble sleeping or sleeping too much</br>
+    <br>4) Loss of energy or increased fatigue</br>
+    <br>5) Feeling worthless or guilty</br>
+    <br>6) Difficulty thinking, concentrating or making decisions</br>
+    <br>7) Thoughts of death or suicide</br>
+    </string>
+    <string name="sound1">
+    <a href="https://www.youtube.com/watch?v=Qm846KdZN_c">Birds Chirping </a>
+</string>
+
+    <string name="sound2">
+    <a href="https://www.youtube.com/watch?v=8plwv25NYRo">Raining Outside </a>
+</string>
+
+    <string name="sound3">
+    <a href="https://www.youtube.com/watch?v=AsD5u6k6dKI">Thunderstorms At The Sea</a>
+</string>
+
+    <string name="sound4">
+    <a href="https://www.youtube.com/watch?v=V1RPi2MYptM">Soothing Waterfalls</a>
+</string>
+
+    <string name="sound5">
+    <a href="https://www.youtube.com/watch?v=Ftm2uv7-Ybw">Scenic Fireplace</a>
+</string>
+    <string name="doctor1">
+        <br>Name: Dr. Charles Morris </br>
+        <br>Location: Hadapsar</br>
+        <br>Consultation fees: - $50</br>
+        <br>Call Now: - 7223698771</br>
+
+    </string>
+
+    <string name="doctor2">
+        <br>Name: Dr. Emma Ramos </br>
+        <br>Location: Kothrud</br>
+        <br>Consultation fees: - $55</br>
+        <br>Call Now: - 9887561002</br>
+
+    </string>
+
+    <string name="doctor3">
+        <br>Name: Dr. John Matrix </br>
+        <br>Location: SHivaji Nagar</br>
+        <br>Consultation fees: - $75</br>
+        <br>Call Now: - 9886235110</br>
+
+    </string>
+
+    <string name="doctor4">
+        <br>Name: Sr. George Bluth </br>
+        <br>Location: Viman Nagar</br>
+        <br>Consultation fees: - $76</br>
+        <br>Call Now: - 6885623032</br>
+
+    </string>
+
+</resources>
